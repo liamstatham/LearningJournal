@@ -1,4 +1,4 @@
-# LearningJournal
+# Learning Journal
 My learning journal post 100 days of code. 
 My 100 days of code challenge was completed on 13/04/2021.
 
@@ -9,5 +9,5 @@ Current plans:
   - Continue Azure Fundamentals
 
 ### 14/04/21
-
+  - Test
 
