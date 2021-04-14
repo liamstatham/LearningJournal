@@ -9,5 +9,11 @@ Current plans:
   - Continue Azure Fundamentals
 
 ### 14/04/21
-  - Test
+  - Continued with Azure Fundamentals 
+    - On Part 4: general security features
+    - Learnt and did an example of Azure key vault
+    - Learnt about Azure dedicated hosts
+    - https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
+  - Signed up for a training session on DevOps with github
+  - Tomorrow I'm going to take a look at Jenkins.
 
