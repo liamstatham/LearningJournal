@@ -7,6 +7,14 @@ Log to be completed ascending (new log at the top).
 Current plans:
   - Continue ASP.NET Core MVC learning and projects
   - Continue Azure Fundamentals
+  - Jenkins automation
+
+
+### 15/04/21
+  - Started learning Jenkins
+    - Installed locally on my machine via WAR java file
+    - Took some set up notes
+    - bit of further reading.
 
 ### 14/04/21
   - Continued with Azure Fundamentals 
