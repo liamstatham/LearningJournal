@@ -9,6 +9,10 @@ Current plans:
   - Continue Azure Fundamentals
   - Jenkins automation
 
+### 16/04/21
+  - Continued learning about Azure security fundamentals
+    - Such as defence in depth, DDoS protection, WAF, NSGs
+    - Some lovely early morning learning, will continue later.
 
 ### 15/04/21
   - Started learning Jenkins
