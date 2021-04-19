@@ -9,6 +9,13 @@ Current plans:
   - Continue Azure Fundamentals
   - Jenkins automation
 
+### 19/04/21
+  - Azure Fundamentals
+    - Security groups and services
+    - Identity, governance and authentication
+  - A look into atlassian products
+    - Jira/bitbucket
+
 ### 16/04/21
   - Continued learning about Azure security fundamentals
     - Such as defence in depth, DDoS protection, WAF, NSGs
