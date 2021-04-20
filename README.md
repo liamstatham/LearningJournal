@@ -9,6 +9,11 @@ Current plans:
   - Continue Azure Fundamentals
   - Jenkins automation
 
+### 20/04/21
+  - more azure fundamentals, mainly governance stuff
+  - Jenkins automation
+  - atalassian stuff 
+
 ### 19/04/21
   - Azure Fundamentals
     - Security groups and services
