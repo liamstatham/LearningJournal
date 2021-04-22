@@ -9,6 +9,11 @@ Current plans:
   - Continue Azure Fundamentals
   - Jenkins automation
 
+### 22/04/21
+  - azure services recap
+  - database migration research 
+  - signalR research 
+
 ### 21/04/21
   - Finished the Azure fundamentals training
   - Booked the exam for 28/04/21, which gives me a week of reading notes and recap
