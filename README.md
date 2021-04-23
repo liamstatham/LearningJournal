@@ -9,6 +9,11 @@ Current plans:
   - Continue Azure Fundamentals
   - Jenkins automation
 
+### 23/04/21
+  - Very busy day at work and only 45 mins this evening
+  - Jenkins automation, installed java jdk, learning about freestyle jobs automation
+  - further ci/cd learning
+
 ### 22/04/21
   - azure services recap
   - database migration research 
