@@ -9,6 +9,12 @@ Current plans:
   - Continue Azure Fundamentals
   - Jenkins automation
 
+### 24/04/21
+  - Azure fundamentals recap
+    -Azure core products
+      -Azure compute, VMs, containers, app service, serverless computing and core networking
+   - found an interesting ci/cd course with Jenkins
+
 ### 23/04/21
   - Very busy day at work and only 45 mins this evening
   - Jenkins automation, installed java jdk, learning about freestyle jobs automation
