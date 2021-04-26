@@ -9,6 +9,11 @@ Current plans:
   - Continue Azure Fundamentals
   - Jenkins automation
 
+### 26/04/21
+  - More Azure (can't wait to get back to some code/automation!)
+    - More azure core products recap
+    - Started recapping data storage and databases in azure.
+
 ### 24/04/21
   - Azure fundamentals recap
     -Azure core products
