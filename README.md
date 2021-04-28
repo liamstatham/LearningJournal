@@ -6,8 +6,17 @@ Log to be completed ascending (new log at the top).
 
 Current plans:
   - Continue ASP.NET Core MVC learning and projects
-  - Continue Azure Fundamentals
+  - continue azure journey
   - Jenkins automation
+Complete:
+  - Azure fundamentals certification 
+
+### 28/04/21
+  - azure fundamentals exam
+    - passed and certified! 
+
+### 27/04/21
+  - Azure fundamentals revision 
 
 ### 26/04/21
   - More Azure (can't wait to get back to some code/automation!)
