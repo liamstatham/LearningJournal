@@ -11,6 +11,11 @@ Current plans:
 Complete:
   - Azure fundamentals certification 
 
+### 30/04/21
+  - After a few days with my wife in/out of hospital and being awake for 40+ hours, i'm back!
+  - CICD pipelines with Jenkins and github
+  - Built a test pipeline in code and then another using SCM & git. 
+
 ### 28/04/21
   - azure fundamentals exam
     - passed and certified! 
