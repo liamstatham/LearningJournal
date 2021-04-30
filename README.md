@@ -8,6 +8,8 @@ Current plans:
   - Continue ASP.NET Core MVC learning and projects
   - continue azure journey
   - Jenkins automation
+  - CI/CD pipelines
+  
 Complete:
   - Azure fundamentals certification 
 
