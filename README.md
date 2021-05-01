@@ -13,6 +13,11 @@ Current plans:
 Complete:
   - Azure fundamentals certification 
 
+### 01/05/21
+  - Docker blowing my absolute mind this evening, and then Jenkins!
+  - Spent a lot of time configuring both, which has actually helped me learn more about both than I initially thought.
+  - Playing with building pipelines, with poweshell core (pwsh) and dockerfiles 
+
 ### 30/04/21
   - After a few days with my wife in/out of hospital and being awake for 40+ hours, i'm back!
   - CICD pipelines with Jenkins and github
