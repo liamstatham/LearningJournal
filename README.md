@@ -13,6 +13,12 @@ Current plans:
 Complete:
   - Azure fundamentals certification 
 
+### 02/05/21
+  - Multi branch pipelines in Jenkins
+  - unit testing in jenkins
+  - post pipeline jobs in jenkins
+  - more docker fun
+
 ### 01/05/21
   - Docker blowing my absolute mind this evening, and then Jenkins!
   - Spent a lot of time configuring both, which has actually helped me learn more about both than I initially thought.
