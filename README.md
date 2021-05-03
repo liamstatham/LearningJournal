@@ -13,6 +13,11 @@ Current plans:
 Complete:
   - Azure fundamentals certification 
 
+
+### 03/05/21
+  - Jenkins pipelines
+  - Mavin/Java compiling/testing/packaging java code, in prep for pipeline creation.
+
 ### 02/05/21
   - Multi branch pipelines in Jenkins
   - unit testing in jenkins
