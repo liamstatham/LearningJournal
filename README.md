@@ -13,6 +13,9 @@ Current plans:
 Complete:
   - Azure fundamentals certification 
 
+### 04/05/21
+  - More jenkins pipelines and maven
+  - dev ops methodologies and CI/CD
 
 ### 03/05/21
   - Jenkins pipelines
