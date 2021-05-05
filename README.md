@@ -13,6 +13,13 @@ Current plans:
 Complete:
   - Azure fundamentals certification 
 
+### 05/05/21
+  - Jenkins CI/CD
+    - Integrating container security and compliance with Trivy and Anchore
+    - Setting up azure kubernetes access
+    - Docker stuff
+    - More multi branch pipelines with tasks/user inputs
+
 ### 04/05/21
   - More jenkins pipelines and maven
   - dev ops methodologies and CI/CD
