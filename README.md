@@ -12,6 +12,16 @@ Current plans:
   
 Complete:
   - Azure fundamentals certification 
+  - 100 Days of code
+
+### 06/05/21
+  - Further Dev Ops psychology and methodology
+    - How to influence Dev Ops changes into your organisation
+  - Jenkins CI/CD
+    - Deploying to Azure Kubernetes
+    - Continuous deployment pipelines
+    - Improving Jenkins
+    - Scripted and declarative pipelines
 
 ### 05/05/21
   - Jenkins CI/CD
