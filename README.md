@@ -14,6 +14,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code
 
+### 07/05/21
+  - More Dev Ops theory
+    - Dev ops technologies
+    - More theory and implementation tips
+    - Full dev ops cycle
+
 ### 06/05/21
   - Further Dev Ops psychology and methodology
     - How to influence Dev Ops changes into your organisation
