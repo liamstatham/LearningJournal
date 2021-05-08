@@ -14,6 +14,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code
 
+
+### 08/05/21
+  - orchestration and automation
+    - how it all fits together and why
+    - how to implement orchestration 
+
 ### 07/05/21
   - More Dev Ops theory
     - Dev ops technologies
