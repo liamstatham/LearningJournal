@@ -14,6 +14,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code
 
+### 12/05/21
+  - no learning for a few days because of work trips and tiredness
+  - today been getting used to bit bucket cloud and learnt a bit more git
+  - need to edge back to code
 
 ### 08/05/21
   - orchestration and automation
