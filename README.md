@@ -14,6 +14,8 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code
 
+### 14/05/21
+  - More powershell stuff, preparing for automation work
 
 ### 13/05/21
   - Recap on some powershell for some automation work
