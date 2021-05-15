@@ -14,6 +14,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code
 
+### 15/05/21
+  - Powershell core
+    - Gathering info via PS on local computer and OS
+    - Used to find and update firewall rules
+
 ### 14/05/21
   - More powershell stuff, preparing for automation work
 
