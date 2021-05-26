@@ -9,10 +9,15 @@ Current plans:
   - continue azure journey
   - Jenkins automation
   - CI/CD pipelines
+  - C#
   
 Complete:
   - Azure fundamentals certification 
-  - 100 Days of code
+  - 100 Days of code (C#/python)
+
+### 26/05/21
+  - A few weeks off due to moving house!
+  - Bounced straight back into some C# stuff with OOP fundamentals. 
 
 ### 15/05/21
   - Powershell core
