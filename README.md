@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 27/05/21
+  - More C# OOP
+  - Unit testing
+  - Playing with testing/working around .net5 and .4.7.2 stuff!
+
 ### 26/05/21
   - A few weeks off due to moving house!
   - Bounced straight back into some C# stuff with OOP fundamentals. 
