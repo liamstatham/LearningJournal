@@ -15,6 +15,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 29/05/21
+  -  C#
+  -  Applicaiton layering
+  -  More unit testing
+  -  static props
+
 ### 27/05/21
   - More C# OOP
   - Unit testing
