@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 31/05/21
+  = C#
+  - Methods, constructors, overloading etc.
+  - More OOP understanding with classes etc. 
+
 ### 29/05/21
   -  C#
   -  Applicaiton layering
