@@ -15,6 +15,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 01/06/21
+  - C#
+  - Separation of responsibilities (seperation of concerns)
+    - reduce coupling and increase cohesion
+    - encapsulating dependencies
+    - addng repository classes
+    - extracted unrelated members to their own classes to increase cohesion
+    - intro to design patterns
+
 ### 31/05/21
   = C#
   - Methods, constructors, overloading etc.
