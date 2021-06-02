@@ -15,6 +15,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 02/06/21
+  - C#
+  - Struggled with focus tonight, so warm!
+  - Class relationships and relationships in code.
+  -  Collaborations, composition and inherritance. Will do examples of them tomorrow. 
+
 ### 01/06/21
   - C#
   - Separation of responsibilities (seperation of concerns)
