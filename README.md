@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 03/06/21
+  - C#
+  - More class relationships, with inheritance, composition and collab. Examples done.
+  - More unit testing and pillars of OOP.
+
 ### 02/06/21
   - C#
   - Struggled with focus tonight, so warm!
