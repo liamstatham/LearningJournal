@@ -15,6 +15,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 04/06/21
+  - C#
+  - Inherritance and re=use. 
+  - Using the Object class.
+
 ### 03/06/21
   - C#
   - More class relationships, with inheritance, composition and collab. Examples done.
