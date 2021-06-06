@@ -15,6 +15,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 06/06/21
+  - C#
+  - Polymorphism and abstract base classes
+  - Created a base class in project to use example polymorphism - "saving" different things on different objects etc
 
 ### 04/06/21
   - C#
