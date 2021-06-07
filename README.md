@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 07/06/21
+  - C#
+  - Reusable components and code libraries
+  - Implemented a code library in example
+
 ### 06/06/21
   - C#
   - Polymorphism and abstract base classes
