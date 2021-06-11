@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 11/06/21
+  - C#
+  - building and testing reusable components - as utilities
+  - Static classes and members and using them correctly. 
+
 ### 08/06/21
   - Refresh the memory of some older C# projects
   - They definitely need re-doing with everything I've learnt since!
