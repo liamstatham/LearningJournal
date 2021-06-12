@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 12/06/21
+  - Working on C# project
+  - Started implementing a list of brands, rather than a string input.
+    - Several issues, mainly with the exisitng database and references. 
+
 ### 11/06/21
   - C#
   - building and testing reusable components - as utilities
