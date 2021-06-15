@@ -15,6 +15,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 15/06/21
+  - C#
+  - Extension methods and static methods
+  - Interfaces and interface polymorphism 
+  - Examples and unit testing!
+
 ### 12/06/21
   - Working on C# project
   - Started implementing a list of brands, rather than a string input.
