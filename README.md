@@ -15,6 +15,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 16/06/21
+  - MVC studying 
+  - investigate new structured learning paths
+  - planning 
+
 ### 15/06/21
   - C#
   - Extension methods and static methods
