@@ -15,6 +15,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 18/06/21
+  - MVC http handlers and modules
+  - HTTP routing in the MVC framework using MVC handler.
+
 ### 17/06/21
   - MVC request life cycle learning
   - Events through the request lifecycle and what they do/why
