@@ -15,6 +15,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 19/06/21
+  - MVC controller initialization
+  - building a custom controller factory
+  - dependency resolvers. 
+  - a look into angular
+
 ### 18/06/21
   - MVC http handlers and modules
   - HTTP routing in the MVC framework using MVC handler.
