@@ -15,6 +15,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 20/06/21
+  - MVC learning
+  - Started a new website, playing with bootstrap etc
+
 ### 19/06/21
   - MVC controller initialization
   - building a custom controller factory
