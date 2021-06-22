@@ -15,6 +15,13 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 22/06/21
+  - Design theories and stuff
+  - How to extract use cases from requirements
+  - core use cases
+  - Adding work items to dev ops and sprints/iterations
+  - Sketching UI's and what to do
+
 ### 21/06/21
   - Move MVC
   - Started a full stack course, I need to do more front end stuff and tie it all together.
