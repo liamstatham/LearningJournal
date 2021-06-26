@@ -15,6 +15,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 26/06/21
+  - Entity framework
+  - Using small migrations and updating databases.
+
 ### 22/06/21
   - Design theories and stuff
   - How to extract use cases from requirements
