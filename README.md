@@ -15,6 +15,13 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 28/06/21
+  - Still suffering from mystery illness, massive fatigue, but glad I managed an hour in the evening.
+  - Learnt a lot of entity framework and migrations
+  - Design decision
+  - handy shortcuts in VS
+  - Evaluating different solutions and cost of the decisions.
+
 ### 26/06/21
   - Entity framework
   - Using small migrations and updating databases.
