@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 29/06/21
+  - Unit testing!
+  - Why/when/how
+  - Test classes and exception handling
+
 ### 28/06/21
   - Still suffering from mystery illness, massive fatigue, but glad I managed an hour in the evening.
   - Learnt a lot of entity framework and migrations
