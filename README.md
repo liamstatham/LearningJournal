@@ -15,6 +15,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 30/06/21
+  - Feeling unwell and a long day on site = struggling to focus!
+  - Unit testing continued, learnt about TestContext etc
+
 ### 29/06/21
   - Unit testing!
   - Why/when/how
