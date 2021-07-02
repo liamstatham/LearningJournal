@@ -14,6 +14,10 @@ Current plans:
 Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
+  
+  
+### 01/07/21
+  - More unit texting on C#!
 
 ### 30/06/21
   - Feeling unwell and a long day on site = struggling to focus!
