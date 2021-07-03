@@ -14,7 +14,12 @@ Current plans:
 Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
-  
+
+
+### 03/07/21
+  - Unit testing!
+  - Project, Class and test specific initialization and cleanup with examples!
+  - Quite cool!
   
 ### 01/07/21
   - More unit texting on C#!
