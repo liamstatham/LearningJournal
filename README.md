@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 04/07/21
+  - More unit testing!
+  - Using different attributes on test methods
+  - Such as: Description, Owner, Priority, Test Cateogry, Time out, Data rows and Deployment items
+  - Worked through examples
 
 ### 03/07/21
   - Unit testing!
