@@ -19,7 +19,7 @@ Complete:
   - More unit testing!
   - Using different attributes on test methods
   - Such as: Description, Owner, Priority, Test Cateogry, Time out, Data rows and Deployment items
-  - Worked through examples
+  - Worked through examples (and added regions to my code)
 
 ### 03/07/21
   - Unit testing!
