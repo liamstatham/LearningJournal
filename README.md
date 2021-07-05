@@ -15,6 +15,13 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 05/07/21
+  - Unit testing!
+  - Assert classes
+    - Positive, Negative and Other asserting
+    - String asserts and objects 
+
 ### 04/07/21
   - More unit testing!
   - Using different attributes on test methods
