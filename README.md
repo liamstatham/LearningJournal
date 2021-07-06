@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 06/07/21
+  - More unit testing! (Almost done the course now)
+  - More string asserts, along with collection asserts
+  - Feeling very comfortable with creating unit tests now. 
+  - Created a database and table, with data in preparation for the next lesson.
 
 ### 05/07/21
   - Unit testing!
