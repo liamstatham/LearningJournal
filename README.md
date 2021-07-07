@@ -15,6 +15,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 07/07/21
+  - Unit testing...
+  - Data driven unit testing, using a SQL database connection
+  - Parameterising settings etc
+  - Looping through data tables (handy to know in C# as well as python!)
+
 ### 06/07/21
   - More unit testing! (Almost done the course now)
   - More string asserts, along with collection asserts
