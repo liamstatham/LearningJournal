@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 08/07/21
+  - Finished unit testing course on pluralsight
+  - Automating unit testing via developer cmd. 
+  - Looking forward to getting on with some building now!
+
 ### 07/07/21
   - Unit testing...
   - Data driven unit testing, using a SQL database connection
