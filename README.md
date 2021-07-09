@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 09/07/21
+  - C# Best practice course
+  - Application architecture best practices
+  - Advanced knowledge on classes
+
 ### 08/07/21
   - Finished unit testing course on pluralsight
   - Automating unit testing via developer cmd. 
