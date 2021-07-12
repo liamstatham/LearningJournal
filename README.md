@@ -15,6 +15,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 12/07/21
+  - Continuing best practice course
+  - Nitty gritty best practices in classes and unit testing.
+
 ### 09/07/21
   - C# Best practice course
   - Application architecture best practices
