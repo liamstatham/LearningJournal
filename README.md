@@ -15,6 +15,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 13/07/21
+  - Best practice course
+    - Constructors
+    - Namespaces
+    - Static classes
+    - Singletons
+    - Exampels!!!!!
+
 ### 12/07/21
   - Continuing best practice course
   - Nitty gritty best practices in classes and unit testing.
