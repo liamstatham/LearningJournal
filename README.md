@@ -16,6 +16,12 @@ Complete:
   - 100 Days of code (C#/python)
 
 
+### 14/07/21
+  - Best practice course
+    - Object initialization
+    - project and class referencing
+    - "using" classes
+
 ### 13/07/21
   - Best practice course
     - Constructors
