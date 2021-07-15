@@ -16,6 +16,12 @@ Complete:
   - 100 Days of code (C#/python)
 
 
+### 15/07/21
+  - Best practice course module
+    - Related object initialization
+    - null checking (with ? operator) 
+    - lazy loading
+
 ### 14/07/21
   - Best practice course
     - Object initialization
