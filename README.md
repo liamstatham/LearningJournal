@@ -15,6 +15,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 17/07/21
+  - Best practice course module
+    - Best practices surrounding Fields
+    - Backing fields, Nullable types, constants and read only fields
+    - Unit testing!
 
 ### 15/07/21
   - Best practice course module
