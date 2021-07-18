@@ -15,6 +15,16 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 18/07/21
+  - Best practice course module
+    - Hottest day of the year too!
+    - Properties
+      - Coding properties
+      - Auto-implemented properties
+      - Property accesibility
+      - Additional uses (calcs etc)
+      - Expression-bodied properties (lambda)
+
 ### 17/07/21
   - Best practice course module
     - Best practices surrounding Fields
