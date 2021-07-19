@@ -15,6 +15,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 19/07/21
+  - Best practice course module
+    - Hottest day of the year too!
+    - Creating good methods
+      - Method signatures
+      - Body and return values (including multiple return values with objects)
+      - When to use properties or methods
+      - Examples 
+
 ### 18/07/21
   - Best practice course module
     - Hottest day of the year too!
