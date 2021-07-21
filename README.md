@@ -15,6 +15,13 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 21/07/21
+  - Best practice course module
+    - Creating good methods
+      - Method over riding
+      - expression bodied methods
+      - unit testing
+
 ### 20/07/21
   - Best practice course module
     - Creating good methods
