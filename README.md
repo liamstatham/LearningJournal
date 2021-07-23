@@ -15,6 +15,14 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 23/07/21
+  - Best practice course module
+    - Specifying clear parameters
+      - Improving parameters
+      - Named arguments (an add on does this for me)
+      - Enumerated arguments
+
+
 ### 21/07/21
   - Best practice course module
     - Creating good methods
