@@ -15,6 +15,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 24/07/21
+  - Best practice course module
+    - Specifying clear parameters
+      - Optional parameters
+      - Ref vs Out
+      - FAQ's
+      - Strings
+
+
 ### 23/07/21
   - Best practice course module
     - Specifying clear parameters
