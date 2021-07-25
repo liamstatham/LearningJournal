@@ -15,6 +15,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 25/07/21
+  - Best practice course module
+    - String handling
+      - C# strings
+      - Reference type as a value
+      - .NET string methods
+      - Handling nulls
+      - Verbatim strings @
+
 ### 24/07/21
   - Best practice course module
     - Specifying clear parameters
@@ -23,14 +32,12 @@ Complete:
       - FAQ's
       - Strings
 
-
 ### 23/07/21
   - Best practice course module
     - Specifying clear parameters
       - Improving parameters
       - Named arguments (an add on does this for me)
       - Enumerated arguments
-
 
 ### 21/07/21
   - Best practice course module
