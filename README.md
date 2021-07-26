@@ -16,6 +16,14 @@ Complete:
   - 100 Days of code (C#/python)
 
 ### 25/07/21
+  - Best practice course module (Finished!)
+    - String handling
+      - Formatting strings
+      - string interpolation 
+      - long strings
+      - FAQs
+      
+### 25/07/21
   - Best practice course module
     - String handling
       - C# strings
