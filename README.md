@@ -15,6 +15,14 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 26/07/21
+  - Applying Asynchronous Programming C#
+    - Getting starting with Asynchronous programming
+      - Exercises
+      - Async & Await
+      - Handling exceptions
+
 ### 25/07/21
   - Best practice course module (Finished!)
     - String handling
