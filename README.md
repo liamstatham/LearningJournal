@@ -7,8 +7,6 @@ Log to be completed ascending (new log at the top).
 Current plans:
   - Continue ASP.NET Core MVC learning and projects
   - continue azure journey
-  - Jenkins automation
-  - CI/CD pipelines
   - C#
   
 Complete:
