@@ -13,6 +13,13 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 30/07/21
+  - Applying Asynchronous Programming C#
+    - Intro to Task Parallel Library
+      - Exercises
+      - Error handling in task parallel library
+      - best practices in Async
+
 ### 28/07/21
   - Applying Asynchronous Programming C#
     - Intro to Task Parallel Library
