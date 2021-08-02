@@ -13,6 +13,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 02/08/21
+  - Applying Asynchronous Programming C#
+    - Exploring the Task Paralell Library
+      - Exercises
+      - When all and When Any methods
+      - Pre computed results for a task
+      - Unit testing with Async
+      - Exceution context and controlling the continuation (adding data to UI via continuation)
+
 ### 01/08/21
   - Applying Asynchronous Programming C#
     - Intro to Task Parallel Library
