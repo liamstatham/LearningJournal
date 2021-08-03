@@ -13,6 +13,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 03/08/21
+  - Applying Asynchronous Programming C#
+    - Exploring the Task Paralell Library
+      - Exercises
+      - Excecution context and configure await
+      - ASP.NET configuring await
+      - Summary
+      - Made a start on the next module too.
+
 ### 02/08/21
   - Applying Asynchronous Programming C#
     - Exploring the Task Paralell Library
