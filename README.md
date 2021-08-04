@@ -13,6 +13,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 04/08/21
+  - Applying Asynchronous Programming C#
+    - Advanced topics 
+      - Exercises
+      - Asynchronous streams and disposables
+      - Implications of async and await
+      - Reducing the amount of state machines
+      - summary 
+
 ### 03/08/21
   - Applying Asynchronous Programming C#
     - Exploring the Task Paralell Library
