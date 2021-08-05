@@ -15,6 +15,11 @@ Complete:
 
 ### 04/08/21
   - Applying Asynchronous Programming C#
+    - Finished the course on "deep dive" into more async methods
+    - Started learning SOLID
+
+### 04/08/21
+  - Applying Asynchronous Programming C#
     - Advanced topics 
       - Exercises
       - Asynchronous streams and disposables
