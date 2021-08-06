@@ -13,7 +13,13 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
-### 04/08/21
+### 06/08/21
+  - SOLID principles
+      - Single responsibility principle
+      - Coupling and cohesion etc
+  - Some other SQL bits
+
+### 05/08/21
   - Applying Asynchronous Programming C#
     - Finished the course on "deep dive" into more async methods
     - Started learning SOLID
