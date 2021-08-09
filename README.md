@@ -13,6 +13,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 09/08/21
+  - SOLID Principles 
+      - Open / closed principles 
+      - balancing abstraction and concreteness 
+
+
 ### 06/08/21
   - SOLID principles
       - Single responsibility principle
