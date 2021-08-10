@@ -13,11 +13,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 10/08/21
+  - SOLID Principles 
+      - Liskov substitution principle
+
 ### 09/08/21
   - SOLID Principles 
       - Open / closed principles 
       - balancing abstraction and concreteness 
-
 
 ### 06/08/21
   - SOLID principles
