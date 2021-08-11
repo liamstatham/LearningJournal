@@ -13,6 +13,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 11/08/21
+  - SOLID Principles 
+      - Interface segragation principle
+      - examples
 
 ### 10/08/21
   - SOLID Principles 
