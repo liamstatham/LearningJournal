@@ -13,6 +13,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 12/08/21
+  - SOLID Principles
+      - Dependency inversion principle
+      - Recap of SOLID
+
 ### 11/08/21
   - SOLID Principles 
       - Interface segragation principle
