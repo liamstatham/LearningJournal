@@ -8,10 +8,15 @@ Current plans:
   - Continue ASP.NET Core MVC learning and projects
   - continue azure journey
   - C#
+  - AZ-104
   
 Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
+
+### 30/09/21
+  - Returned from illness!
+  - AZ-104 pre requisites & labs
 
 ### 12/08/21
   - SOLID Principles
