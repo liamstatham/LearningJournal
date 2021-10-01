@@ -14,6 +14,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 01/10/21
+  - Azure resource monitor
+    - Inc terminology, resource group admin and limits
+
 ### 30/09/21
   - Returned from illness!
   - AZ-104 pre requisites & labs
