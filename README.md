@@ -14,6 +14,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 04/10/21
+  - Azure learning!
+  - Configuring resource manager, with schemas and templates
+
+
 ### 01/10/21
   - Azure resource monitor
     - Inc terminology, resource group admin and limits
