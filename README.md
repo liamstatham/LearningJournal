@@ -14,6 +14,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 06/10/21
+  - Azure administrator!
+  - Automating tasks with azure powershell
+
 ### 04/10/21
   - Azure learning!
   - Configuring resource manager, with schemas and templates
