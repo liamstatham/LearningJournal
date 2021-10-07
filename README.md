@@ -14,6 +14,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 07/10/21
+  - Azure administrator!
+  - Control azure resources using the Azure CLI
+
 ### 06/10/21
   - Azure administrator!
   - Automating tasks with azure powershell
