@@ -14,6 +14,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 17/10/21
+  - Nice and fresh post holiday!
+  - Azure AZ-104 training
+  - deploy azure infrastructure with ARM templates
+    - really enjoyed this one, bringing my coding together with infrastructure!
 
 ### 07/10/21
   - Azure administrator!
