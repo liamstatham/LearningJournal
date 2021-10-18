@@ -14,6 +14,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 18/10/21
+  - AZ-104
+  - Manage identities and governance
+    - Configure Azure AD
+    - Configure user and group accounts
+
 ### 17/10/21
   - Nice and fresh post holiday!
   - Azure AZ-104 training
