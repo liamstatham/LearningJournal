@@ -14,6 +14,10 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 21/10/21
+  - AZ-104
+  - Manage identities and governance
+    - Configure RBAC & Azure AD roles
 
 ### 19/10/21
   - AZ-104
