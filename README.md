@@ -14,6 +14,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 25/10/21
+  - AZ-104
+  - Manage identities and governance - Finished Module
+    - Secure Azure resources using RBAC
+    - Allow users to reset their passwords using SSPR
+
 ### 23/10/21
   - AZ-104
   - Manage identities and governance
