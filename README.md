@@ -14,6 +14,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 26/10/21
+  - AZ-104
+  - Implement and manage storage in Azure
+    - Configure storage accounts
+    - Configure blob storage
+
 ### 25/10/21
   - AZ-104
   - Manage identities and governance - Finished Module
