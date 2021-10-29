@@ -14,6 +14,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 29/10/21
+  - AZ-104
+  - Implement and manage storage in Azure
+    - Configure Azure file shares and azure file sync
+    - Configure storage with tools
+
 ### 28/10/21
   - AZ-104
   - Implement and manage storage in Azure
