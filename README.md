@@ -14,6 +14,14 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 01/11/21
+  - AZ-104
+  - Implement and manage storage in Azure
+    - Create An Azure storage account
+    - Control access to azure storage with SAS
+    - Loads of sandbox examples!
+
 ### 29/10/21
   - AZ-104
   - Implement and manage storage in Azure
