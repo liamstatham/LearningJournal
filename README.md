@@ -14,6 +14,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 04/11/21
+  - AZ-104
+  - Implement and manage storage in Azure
+    - Manage data, databases, subscriptions etc in Azure Storage explorer
+    - Module complete!
+
 ### 03/11/21
   - AZ-104
   - Implement and manage storage in Azure
