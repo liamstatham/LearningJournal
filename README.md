@@ -14,6 +14,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 11/11/21
+  - Bit of time off as I started a new job started as a cloud engineer!
+  - AZ-104
+  - Deploy and manage azure compute resources
+    - Configure VMs and availability
+
 ### 04/11/21
   - AZ-104
   - Implement and manage storage in Azure
