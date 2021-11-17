@@ -15,6 +15,12 @@ Complete:
   - 100 Days of code (C#/python)
 
 
+### 17/11/21
+  - AZ-104
+  - Deploy and manage azure compute resources
+    - Configure Azure app services
+    - Configure Azure container instances (I finally get containers LOL)
+
 ### 16/11/21
   - AZ-104
   - Deploy and manage azure compute resources
