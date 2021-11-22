@@ -15,6 +15,12 @@ Complete:
   - 100 Days of code (C#/python)
 
 
+### 22/11/21
+  - AZ-104
+  - Deploy and manage azure compute resources
+    - Configure Azure Kubernetes service
+    - Manage VMs with Azure CLI
+
 ### 17/11/21
   - AZ-104
   - Deploy and manage azure compute resources
