@@ -14,6 +14,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 25/11/21
+  - AZ-104
+  - Deploy and manage azure compute resources
+    - Protect VM settings with Automation state configuration
+    - Labs
+    - Finished module
+  - Cram video
+
 ### 24/11/21
   - AZ-104
   - Deploy and manage azure compute resources
