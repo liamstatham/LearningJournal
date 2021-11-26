@@ -14,6 +14,13 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 26/11/21
+  - AZ-104
+  - Configure and manage Vnet
+    - Configure Vnets
+    - Configure NSGs
+    - Configure Azure firewall
+  - Cram video!
 
 ### 25/11/21
   - AZ-104
