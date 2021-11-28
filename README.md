@@ -13,6 +13,15 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+
+### 28/11/21
+  - AZ-104
+  - Configure and manage Vnet
+    - Configure Azure DNS
+    - Configure VNET peering
+    - Configure VPN gateway
+  - Cram video!
+
 ### 26/11/21
   - AZ-104
   - Configure and manage Vnet
