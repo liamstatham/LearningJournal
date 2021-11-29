@@ -14,6 +14,15 @@ Complete:
   - 100 Days of code (C#/python)
 
 
+### 29/11/21
+  - AZ-104
+  - Configure and manage Vnet
+    - Configure Express route and virtual WAN
+    - Configure network routing and endpoints
+    - Configure azure load balancer
+    - Configure Azure application gateway
+  - Cram video!
+
 ### 28/11/21
   - AZ-104
   - Configure and manage Vnet
