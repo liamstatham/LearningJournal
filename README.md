@@ -13,6 +13,13 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 07/12/21
+  - AZ-104
+  - Monitor and backup resources
+    - Configure file and folder backups
+    - Configure VM backups
+
+
 ### 30/11/21
   - AZ-104
   - Configure and manage Vnet
