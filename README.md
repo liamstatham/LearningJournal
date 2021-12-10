@@ -13,12 +13,28 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 10/12/21
+  - AZ-104
+  - General recapping with notes
+  - Monitor and backup resources
+    - Configure Azure monitor
+    - Configure azure alerts
+    - Configure log analytics
+    - Configure network watcher
+
+### 09/12/21
+  - AZ-104
+  - General recapping
+
+### 08/12/21
+  - AZ-104
+  - General recapping
+
 ### 07/12/21
   - AZ-104
   - Monitor and backup resources
     - Configure file and folder backups
     - Configure VM backups
-
 
 ### 30/11/21
   - AZ-104
