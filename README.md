@@ -13,6 +13,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 11/12/21
+  - AZ-104
+  - General recapping with notes
+  - Improve incident response with alerting on Azure
+
+
 ### 10/12/21
   - AZ-104
   - General recapping with notes
