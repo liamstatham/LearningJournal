@@ -13,11 +13,16 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 12/12/21
+  - AZ-104
+  - Analze your azure infrastructure with azure monitor
+  - Monitor performance with Azure monitor and kql
+  - General note reading
+
 ### 11/12/21
   - AZ-104
   - General recapping with notes
   - Improve incident response with alerting on Azure
-
 
 ### 10/12/21
   - AZ-104
