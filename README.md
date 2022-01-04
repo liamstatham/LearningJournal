@@ -7,11 +7,32 @@ Log to be completed ascending (new log at the top).
 Current plans:
   - Cloud engineering with Azure (Current job)
   - Code projects
-  - AZ-104
+  - AZ-400
   
 Complete:
+  - AZ-104 Certification
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
+
+### 04/01/22
+  - AZ-400
+
+### Christmas break & Family time
+
+### 17/12/21
+  - AZ-104 Passed!!!!!!!
+
+### 16/12/21
+  - AZ-104
+
+### 15/12/21
+  - AZ-104
+
+### 14/12/21
+  - AZ-104
+
+### 13/12/21
+  - AZ-104
 
 ### 12/12/21
   - AZ-104
