@@ -14,6 +14,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 10/03/22
+  - Little break during a hectic work period!
+  - Az-400 
+    - Getting started with DevOps microsoft learn
+
 ### 04/01/22
   - AZ-400
 
