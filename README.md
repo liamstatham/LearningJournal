@@ -14,6 +14,11 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python)
 
+### 15/03/22
+  - Az-305 study cram video
+  - Design identity, governance and monitor solutions!
+    - Design authentication and authorization solutions
+
 ### 14/03/22
   - Reprioritised to Az-305
   - Design identity, governance and monitor solutions!
