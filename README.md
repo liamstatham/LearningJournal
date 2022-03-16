@@ -1,6 +1,4 @@
 # Learning Journal
-My learning journal post 100 days of code. 
-My 100 days of code challenge was completed on 13/04/2021.
 
 Log to be completed ascending (new log at the top). 
 
@@ -12,7 +10,11 @@ Current plans:
 Complete:
   - AZ-104 Certification
   - Azure fundamentals certification 
-  - 100 Days of code (C#/python)
+  - 100 Days of code (C#/python) completed on 13/04/2021.
+
+### 16/03/22
+  - Design identity, governance and monitor solutions!
+    - Design a solution to log and monitor azure resources
 
 ### 15/03/22
   - Az-305 study cram video
