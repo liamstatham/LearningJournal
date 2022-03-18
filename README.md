@@ -12,6 +12,12 @@ Complete:
   - Azure fundamentals certification 
   - 100 Days of code (C#/python) completed on 13/04/2021.
 
+### 18/03/22
+  - Design data storage solutions
+    - Design a data storage solution for non-relational data
+    - Design a data storage solution for relation data
+      - Azure sql and managed instances (v useful)
+
 ### 16/03/22
   - Design identity, governance and monitor solutions!
     - Design a solution to log and monitor azure resources
