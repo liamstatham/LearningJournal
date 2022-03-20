@@ -13,6 +13,11 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 20/03/22
+  - AZ-305
+  - Design data storage solutions
+    - Design data integration
+
 ### 19/03/22
   - AZ-305
   - Design data storage solutions
