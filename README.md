@@ -13,6 +13,13 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+
+### 21/03/22
+  - AZ-305
+  - Availability groups/sql failover cluster instances (work)
+  - Design business continuity solutions
+    - Design for high availability
+
 ### 20/03/22
   - AZ-305
   - Design data storage solutions
