@@ -13,6 +13,17 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+
+
+### 27/03/22
+  - AZ-305
+  - Design Infrastructure solutions
+    - Design network solutions (hard)
+
+### 26/03/22
+  - AZ-305
+  - Az-305 study video
+
 ### 25/03/22
   - AZ-305
   - Design Infrastructure solutions
