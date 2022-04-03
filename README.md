@@ -16,6 +16,11 @@ Complete:
 ### 02/04/22
   - AZ-305
   - Practice exams
+  - Revision notes on Design identiy, governance and monitoring solutions
+
+### 02/04/22
+  - AZ-305
+  - Practice exams
 
 ### 01/04/22
   - AZ-305
