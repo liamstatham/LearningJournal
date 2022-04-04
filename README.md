@@ -16,6 +16,11 @@ Complete:
 ### 03/04/22
   - AZ-305
   - Practice exams
+  - John Saville in depth videos
+
+### 03/04/22
+  - AZ-305
+  - Practice exams
   - Revision notes on Design identiy, governance and monitoring solutions
 
 ### 02/04/22
