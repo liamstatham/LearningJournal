@@ -13,7 +13,12 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
-### 03/04/22
+### 05/04/22
+  - AZ-305
+  - Practice exams
+  - John Saville in depth videos
+
+### 04/04/22
   - AZ-305
   - Practice exams
   - John Saville in depth videos
