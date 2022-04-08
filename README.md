@@ -8,10 +8,15 @@ Current plans:
   - AZ-305 - Azure solutions architect expert
   
 Complete:
+  - Microsoft Certified Azure Solutions Architect Expert!
+  - AZ-305 - Designing Microsoft Azure Infrastructure Solutions 08/04/2022
   - AZ-104 - Azure Administrator Certification 17/12/2021
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
+
+### 08/04/22
+  - AZ-305 passed!
 
 ### 07/04/22
   - AZ-305
