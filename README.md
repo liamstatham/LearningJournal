@@ -5,7 +5,7 @@ Log to be completed ascending (new log at the top).
 Current plans:
   - Cloud engineering with Azure (Current job)
   - Code projects
-  - AZ-305 - Azure solutions architect expert
+  - AZ-400 - Azure DevOps Expert!
   
 Complete:
   - Microsoft Certified Azure Solutions Architect Expert!
@@ -14,6 +14,11 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
+
+### 22/04/22
+  - Short break!
+  - Az-400
+    - John Saville DevOps Masterclass video 1 - Foundations
 
 ### 08/04/22
   - AZ-305 passed!
