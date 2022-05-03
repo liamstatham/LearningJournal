@@ -6,6 +6,7 @@ Current plans:
   - Cloud engineering with Azure (Current job)
   - Code projects
   - AZ-400 - Azure DevOps Expert!
+  - Terraform
   
 Complete:
   - Microsoft Certified Azure Solutions Architect Expert!
@@ -14,6 +15,11 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
+
+### 03/05/22
+  - Az-400
+    - John Saville DevOps Masterclass videos
+  - Terraform tutorials and labs
 
 ### 27/04/22
   - Az-400
