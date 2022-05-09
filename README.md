@@ -16,7 +16,15 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 09/05/22
+  - Az-400
+    - John Saville DevOps Masterclass videos
+  - Containers & docker!
 
+### 07/05/22
+  - Az-400
+    - John Saville DevOps Masterclass videos
+  - Infrastructure as code ++
 
 ### 05/05/22
   - Az-400
