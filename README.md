@@ -6,6 +6,7 @@ Current plans:
   - Cloud engineering with Azure (Current job)
   - Code projects
   - AZ-400 - Azure DevOps Expert!
+  - AZ-500
   - Terraform
   
 Complete:
@@ -16,6 +17,10 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 17/05/22
+  - Az-500
+  - Microsoft security technologies intro
+  - decided to add this one along with az-400 
 
 ### 16/05/22
   - Az-400
