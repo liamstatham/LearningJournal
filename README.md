@@ -17,6 +17,10 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 06/06/22
+  - Az-500
+  - CBT nuggets videos
+
 ### 05/06/22
   - Az-500
   - CBT nuggets videos
