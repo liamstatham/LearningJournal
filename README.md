@@ -17,6 +17,12 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 20/06/22
+  - Az-500
+  - CBT nuggets videos
+    - Configure advanced security for containers cont
+    - Monitor security with security center and sentinel
+
 ### 16/06/22 - 19/06/22
    - Management/leadership reading
      - how to make friends and influence people 
