@@ -18,7 +18,7 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021
 
 ### 11/07/22
-  -AZ-500 MS learning path
+  - AZ-500 MS learning path
 
 ### 10/07/22
   - AZ-500 MS Learning path
