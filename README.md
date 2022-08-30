@@ -17,6 +17,42 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 30/08/22
+  - AZ-400 learning path
+  - Logic apps building
+  
+### 29/08/22
+  - AZ-400 learning path
+  
+### 28/08/22
+  - AZ-400 learning path
+
+### 27/08/22
+  - AZ-400 learning path
+  - Kubernetes
+
+### 26/08/22
+  - AZ-400 learning path
+  - Kubernetes
+  
+### 25/08/22
+  - AZ-400 learning path
+  - Kubernetes
+  
+### 24/08/22
+  - AZ-400 learning path
+  - AZ-500 security
+  
+### 23/08/22
+  - AZ-400 learning path
+  - Automation through Azure
+
+### 22/08/22
+  - AZ-400 learning path
+  - Containerisation tech
+
+### Time off for holidays
+
 ### 28/07/22
   - AZ-500 study cram video
   - Exam prep
