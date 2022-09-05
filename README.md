@@ -17,6 +17,18 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 05/09/22
+  - Azure cloud adoption framework refresh
+
+### 03/09/22
+  - DevOps Repos deep dive
+
+### 01/09/22
+  - Azure sql and azure data factory source control 
+
+### 31/08/22
+  - AZ-400
+
 ### 30/08/22
   - AZ-400 learning path
   - Logic apps building
