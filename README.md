@@ -16,6 +16,11 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
+ 
+### 14/09/2022
+  - Terraform
+
+### Absolute horrendous week or so with work, long days and late nights!
 
 ### 06/09/22
   - Azure Enterprise scale landing zones
