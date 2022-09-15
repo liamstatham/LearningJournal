@@ -17,10 +17,15 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
  
+### 15/09/2022
+  - Terraform 
+  - Az cost analysis
+
 ### 14/09/2022
   - Terraform
 
 ### Absolute horrendous week or so with work, long days and late nights!
+  - Learning a huge amount of vmware/backups/restores and networking in this period though...
 
 ### 06/09/22
   - Azure Enterprise scale landing zones
