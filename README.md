@@ -17,6 +17,25 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 25/09/2022
+  - Terraform 
+  - Creating IaC tasks to do and learn from
+
+### 24/09/2022
+  - Terraform
+  - Terraform resource registry documentation overview
+
+### 20/09/2022
+  - Terraform  
+  
+### 19/09/2022
+  - Terraform   
+
+### 18/09/2022
+  - DevOps 
+
+### 17/09/2022
+  - Azure cost management and reservations deep dive 
 
 ### 16/09/2022
   - Terraform 
