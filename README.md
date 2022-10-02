@@ -17,6 +17,12 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 02/10/2022
+  - Back from holiday
+  - Azure WAF
+    - Overview
+    - Reliability
+
 ### 25/09/2022
   - Terraform 
   - Creating IaC tasks to do and learn from
