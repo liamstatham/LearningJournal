@@ -7,7 +7,7 @@ Current plans:
   - Code projects
   - AZ-400 - Azure DevOps Expert!
   - AZ-500
-  - Terraform
+  - Terraform/Bicep
   
 Complete:
   - Microsoft Certified Azure Solutions Architect Expert!
@@ -16,6 +16,9 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
+
+### 19/10/2022
+  -  Bicep for templates
 
 ### 03/10/2022
   - Presentation preparation
