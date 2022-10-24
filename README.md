@@ -17,6 +17,11 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+
+### 24/10/2022
+  - More Bicep
+  - More modules and deployments
+
 ### 20/10/2022
   -  Bicep Modules and outputs
   
