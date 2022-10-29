@@ -17,6 +17,22 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 29/10/2022
+  - A cloud guru AZ-400 course
+
+### 28/10/2022
+  - A cloud guru AZ-400 course
+
+### 27/10/2022
+  - Bicep templates/modules
+  - A cloud guru AZ-400 course
+
+### 26/10/2022
+  - Bicep templates/modules
+  - Powershell with Bicep
+
+### 25/10/2022
+  - Bicep templates/modules
 
 ### 24/10/2022
   - More Bicep
