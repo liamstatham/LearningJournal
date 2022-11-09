@@ -18,6 +18,11 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
 ### 08/11/2022
+  - Azure cost analysis
+  - Az automation
+  - Az Powershell/bicep
+
+### 08/11/2022
   - A cloud guru AZ-400 course
   - A cloud guru labs
   - Az Powershell/bicep
