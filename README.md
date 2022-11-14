@@ -17,6 +17,10 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 14/11/2022
+  - A cloud guru AZ-400 course
+  - Javascript (don't ask)
+
 ### 13/11/2022
   - A cloud guru AZ-400 course
 
