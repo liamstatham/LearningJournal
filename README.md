@@ -17,6 +17,12 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 28/11/2022
+  - ACG AZ-400 course 
+  - Labs
+  - Linux and Jenkins
+    - set up jenkins server to build nodejs app, deployed web app to Azure via devops release pipeline
+
 ### 27/11/2022
   - ACG AZ-400 course 
   - Labs
