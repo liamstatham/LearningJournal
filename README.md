@@ -17,6 +17,19 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 14/12/2022
+  - ACG AZ-400 course 
+  - Labs
+  - Containers!
+
+### 13/12/2022
+  - ACG AZ-400 course 
+  - Labs
+
+### 12/12/2022
+  - ACG AZ-400 course 
+  - Labs
+
 ### 11/12/2022
   - ACG AZ-400 course 
   - Labs
