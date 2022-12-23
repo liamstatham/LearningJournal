@@ -17,6 +17,11 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 23/12/2022
+  - ACG AZ-400 course 
+  - Labs
+  - I have the festive flu, so probably off revision for the next few days!
+
 ### 22/12/2022
   - ACG AZ-400 course
   - An unnecessary journey into PowerBI
