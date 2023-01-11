@@ -17,6 +17,15 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 11/01/2023
+  - Building terraform files, linux vm etc
+
+### 10/01/2023
+  - ACG Hashicorp Terraform Associate course
+
+### 09/01/2023
+  - ACG Hashicorp Terraform Associate course
+
 ### 08/01/2023
   - ACG Hashicorp Terraform Associate course
   - Labs for Linux/Terraform in terraform cli with fmt, taint, import
