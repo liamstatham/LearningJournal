@@ -17,6 +17,11 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 13/01/2023
+  - Building terraform template files
+    - Vnets/subnets and vnet pairings
+  - Azure networking
+
 ### 12/01/2023
   - Building terraform template files
     - Linux VM with variables
