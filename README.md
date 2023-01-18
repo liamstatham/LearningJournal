@@ -18,7 +18,10 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
 ### 18/01/2023
-
+  - Building terraform template files
+    - WinVM cont
+    - Kubernetes services & clusters
+    
 ### 17/01/2023
   - Building terraform template files
     - WinVMs and VNETS/SUBNETS/Pairings
