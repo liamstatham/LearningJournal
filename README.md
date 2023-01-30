@@ -17,6 +17,16 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 29/01/2023
+  - Azure networking masterclass with John Saville
+
+### 28/01/2023
+  - Azure networking masterclass with John Saville
+
+### 27/01/2023
+  - securtiy issues... active bad actor
+    - 365, on prem, phishing, SEP, cybereason
+
 ### 26/01/2023
   - Terraform via Azure DevOps
   - Remote state files, yaml pipelines 
