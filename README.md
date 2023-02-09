@@ -17,6 +17,15 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 09/02/2023
+  - Azure networking A Cloud Guru course
+    - Designing and implemnting IP addressing
+
+### SHORT BREAK
+  - Son's birthday
+  - Illness
+  - Last week at Buzz Bingo!
+
 ### 29/01/2023
   - Azure networking masterclass with John Saville
 
