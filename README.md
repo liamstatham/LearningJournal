@@ -17,6 +17,15 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 23/03/2023
+  - Percipio course 
+    - Ansible for DevOps
+
+### 11/02/2023 - 22/03/2023
+  - Started a new job 
+    - Using DevOps, Terraform, Ansible and Powershell daily
+    - Learnt a lot along the way so far with those technologies!
+
 ### 10/02/2023
   - Azure networking A Cloud Guru course
     - Subnet delegation and demo's
