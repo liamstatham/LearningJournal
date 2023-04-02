@@ -17,6 +17,30 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 31/03/2023
+  - Terraform
+  - Azure security
+
+### 30/03/2023
+  - Terraform
+  - Azure architecture - network segmentation
+
+### 29/03/2023
+  - Terraform
+  - Ansible
+
+### 28/03/2023
+  - Terraform
+  - Ansible
+
+### 27/03/2023
+  - Terraform
+  - Ansible
+
+### 24/03/2023
+  - Percipio course 
+    - Ansible for DevOps
+
 ### 23/03/2023
   - Percipio course 
     - Ansible for DevOps
