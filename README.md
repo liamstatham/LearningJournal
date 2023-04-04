@@ -17,6 +17,15 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 04/04/2023
+  - Terraform
+  - DevOps pipeline security/compliance with terrascan
+
+### 03/04/2023
+  - Terraform
+  - Alpine linux for containers
+  - k8s
+
 ### 31/03/2023
   - Terraform
   - Azure security
