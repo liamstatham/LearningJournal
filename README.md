@@ -17,6 +17,20 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 12/04/2023
+  - Kubernetes Administrator
+  - Azure automation (cont)
+
+### 11/04/2023
+  - Kubernetes Administrator
+  - Ansible
+
+### 07/04/2023
+  - Kubernetes Administrator
+
+### 06/04/2023
+  - Kubernetes Administrator
+
 ### 05/04/2023
   - Kubernetes Administrator
     -K8s fundamentals for administrators
