@@ -18,7 +18,12 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
 ### 13/04/2023
+  - AWS Solutions architect associate
+    - Architecture and tooling
+
+### 13/04/2023
   - Writing an effective HLD
+  - Kubernetes administrator
 
 ### 12/04/2023
   - Kubernetes Administrator
