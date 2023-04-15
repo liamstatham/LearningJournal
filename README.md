@@ -7,7 +7,9 @@ Current plans:
   - Code projects
   - AZ-400 - Azure DevOps Expert!
   - AZ-500
-  - Terraform/Bicep
+  - Terraform
+  - Kubernetes & linux
+  - AWS Solutions architect
   
 Complete:
   - Microsoft Certified Azure Solutions Architect Expert!
