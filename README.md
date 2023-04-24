@@ -19,6 +19,11 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 24/04/2023
+  - AWS Solutions architect associate
+    - Managing network infrastructure 
+  - Ansible
+
 ### 21/04/2023
   - AWS Solutions architect associate
     - Managing s3 buckets - complete
