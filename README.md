@@ -1,13 +1,14 @@
 # Learning Journal
 
+A little reminder for myself as to what I've been learning.
 Log to be completed ascending (new log at the top). 
 
 Current plans:
   - Cloud engineering with Azure (Current job)
   - Code projects
   - AZ-400 - Azure DevOps Expert!
-  - AZ-500
-  - Terraform
+  - AZ-500 - Azure security
+  - Terraform & Ansible
   - Kubernetes & linux
   - AWS Solutions architect
   
