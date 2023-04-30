@@ -20,6 +20,15 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 30/04/2023
+  - AWS Solutions architect associate
+    - Connectivity & Name resolution
+    - including
+      - site to site VPN set up and config
+      - client vpn endpoints
+      - managing route tables
+      - aws direct connect and aws private link set up/config
+
 ### 28/04/2023
   - Azure admin exam for a refresher!
 
