@@ -20,6 +20,15 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 01/05/2023
+  - AWS Solutions architect associate
+    - Connectivity & Name resolution
+    - Including:
+      - Provisioning AWS direct connect
+      - Configuring NAT gateway
+      - Configuring Internet gateway
+      - Using an Egress only internet gateway
+
 ### 30/04/2023
   - AWS Solutions architect associate
     - Connectivity & Name resolution
