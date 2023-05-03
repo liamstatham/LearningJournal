@@ -20,6 +20,18 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+
+### 03/05/2023
+  - AWS Solutions architect associate
+    - Connectivity & Name resolution
+    - Including:
+      - DNS and route 53
+      - Creating Route 53 hosted DNS zones and record sets
+      - Registering DNS domains on AWS
+      - Route 53 traffic policies
+      - Deploying DNS firewall
+    - Connectivity & Name resolution test passed
+
 ### 01/05/2023
   - AWS Solutions architect associate
     - Connectivity & Name resolution
