@@ -20,6 +20,20 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 05/05/2023
+  - AWS Solutions architect associate
+    - Managing EC2 Instances - Complete
+    - Including:
+      - Deploying Windows EC2 Instances with the console
+      - Deploying Windows EC2 Instances with CLI
+      - Deploying Windows EC2 Instances with PS
+      - Managing Windows EC2 Instances with RDP
+      - Managing EC2 Instances hibernation mode with the console
+      - Managing EC2 Instances hibernation mode with CLI
+      - Managing EC2 Instances hibernation mode with PS
+      - Monitoring EC2 Performance
+    - Managing EC2 Instances exam      
+
 ### 04/05/2023
   - Azure mentoring
   - Azure architecting for migrations (work)
