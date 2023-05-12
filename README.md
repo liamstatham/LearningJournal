@@ -20,6 +20,32 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 12/05/2023
+  - AWS Solutions architect associate
+    - Computer & Data Analysis services - Complete
+    - Including:
+      - AWS Serverless compute
+      - Amazon ElastiCache
+      - AWS Data analytics and ingestion tools
+      - Section test
+  - Terraform/Ansible/DevOps
+
+### 11/05/2023
+ - Azure security work
+ - ARM templates
+ - ADO admin
+ - Terraform
+ - Packer
+
+### 10/05/2023
+ - Azure server migration planning and architecture (work)
+ - Mentoring
+ 
+### 09/05/2023
+  - Azure admin recap
+  - Anisble
+  - Terraform
+
 ### 07/05/2023
   - AWS Solutions architect associate
     - Computer & Data Analysis services
