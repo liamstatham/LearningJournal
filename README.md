@@ -20,6 +20,10 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 16/05/2023
+ - AZ-400 - Azure DevOps Expert
+    - Development for enterprise DevOps
+    - DevOps tooling, planning, projects and people
 
 ### 14/05/2023
   - AWS Solutions architect associate
