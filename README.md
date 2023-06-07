@@ -20,10 +20,19 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
-### 03/06/2023
+### 07/06/2023
  - AZ-400 - Azure DevOps Expert
-    - Manage and modularize tasks
-    - Automate inspection of health
+    - Introduction to deployment patterns
+    - Implement blue-green deployment
+
+### 06/06/2023
+- inline Powershell (azure)
+- DevOps pipelines yaml
+- Ansible
+
+### 02/06/2023
+- inline Powershell (azure)
+- DevOps pipelines yaml
 
 ### 02/06/2023
 - inline Powershell (azure)
