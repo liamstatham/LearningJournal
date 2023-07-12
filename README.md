@@ -11,6 +11,7 @@ Current plans:
   - Terraform & Ansible
   - Kubernetes & linux
   - AWS Solutions architect
+  - GCP Associate cloud engineer
   
 Complete:
   - Microsoft Certified Azure Solutions Architect Expert!
