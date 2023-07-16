@@ -1,4 +1,4 @@
-Hi# Learning Journal
+# Learning Journal
 
 A little reminder for myself as to what I've been learning.
 Log to be completed ascending (new log at the top). 
@@ -20,6 +20,10 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
+
+### 16/07/2023
+ - AZ-400 - Azure DevOps Expert
+ - exam prep
 
 ### 15/07/2023
  - AZ-400 - Azure DevOps Expert
