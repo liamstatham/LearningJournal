@@ -21,19 +21,23 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 19/08/2023
+ - AZ-400 - Azure DevOps Expert
+ - Release management
+
 ### 16/08/2023
  - AZ-400 - Azure DevOps Expert
- - CI deep dive
+ - Release management
  - Image building
 
 ### 15/08/2023
  - AZ-400 - Azure DevOps Expert
- - CI deep dive
+ - Release management
  - Image building
 
 ### 14/08/2023
  - AZ-400 - Azure DevOps Expert
- - CI deep dive
+ - Release management
  - Image building
 
 ### 13/08/2023
