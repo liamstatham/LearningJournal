@@ -21,6 +21,13 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 12/09/2023
+- Az-400 Developing an alert strategy
+- Practice exam 
+
+### 11/09/2023
+- Az-400 vulnerability scanning
+
 ### 10/09/2023
 - Az-400 vulnerability scanning
 
