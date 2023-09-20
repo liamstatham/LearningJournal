@@ -23,6 +23,7 @@ Complete:
 
 ### 20/09/2023
 - Az-400 skillcert practice exam 76%
+- az-400 developing telemetry and logging 
 
 ### 19/09/2023
 - Az-400 skillcert practice exam 75%
