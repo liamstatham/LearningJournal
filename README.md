@@ -21,6 +21,13 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 22/09/2023
+- Az-400 skillcert practice exam 74%
+- Az-400 developing telemetry and logging
+
+### 21/09/2023
+- Az-400 skillcert practice exam 75%
+
 ### 20/09/2023
 - Az-400 skillcert practice exam 76%
 - az-400 developing telemetry and logging 
