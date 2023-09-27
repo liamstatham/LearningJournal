@@ -6,7 +6,6 @@ Log to be completed ascending (new log at the top).
 Current plans:
   - Cloud engineering with Azure (Current job)
   - Code projects
-  - AZ-400 - Azure DevOps Expert!
   - AZ-500 - Azure security
   - Terraform & Ansible
   - Kubernetes & linux
@@ -14,12 +13,22 @@ Current plans:
   - GCP Associate cloud engineer
   
 Complete:
+  - Microsoft Certified: DevOps Engineer Expert!
+  - AZ-400 - Designing and Implementing Microsoft DevOps Solutions 27/09/2023
   - Microsoft Certified Azure Solutions Architect Expert!
   - AZ-305 - Designing Microsoft Azure Infrastructure Solutions 08/04/2022
   - AZ-104 - Azure Administrator Certification 17/12/2021
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
+
+### 27/09/2023
+- Az-400 skillcert practice exam 78%
+- Passed AZ-400 - Designing and Implementing Microsoft DevOps Solutions!
+- Microsoft Certified: DevOps Engineer Expert! 
+
+### 26/09/2023
+- Az-400 skillcert practice exam 88%
 
 ### 25/09/2023
 - Az-400 skillcert practice exam 78%
