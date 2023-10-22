@@ -22,6 +22,17 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+
+
+
+### 22/10/2023
+  - Az-500 Azure Security Engineer
+  - Exercising governance principles
+
+### Various work issues, including lots of ansible/powershell/DevOps and python
+
+### Short break post exam success
+
 ### 27/09/2023
 - Az-400 skillcert practice exam 78%
 - Passed AZ-400 - Designing and Implementing Microsoft DevOps Solutions!
