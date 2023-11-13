@@ -22,8 +22,12 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 13/11/2023
+  - Azure assessment learn: Configure secure access to your workloads using Azure networking
+  - https://learn.microsoft.com/en-gb/training/modules/guided-project-configure-secure-access-workloads/1-introduction
 
-
+### 12/11/2023
+  - Azure assessment learn: Configure secure access to your workloads using Azure networking
 
 ### 22/10/2023
   - Az-500 Azure Security Engineer
