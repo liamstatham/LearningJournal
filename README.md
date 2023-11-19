@@ -23,6 +23,11 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+
+### 19/11/2023
+  - Azure AI
+  - prepare to develop AI solutions on azure 
+
 ### 17/11/2023
   - Azure assessment learn: Configure secure access to your workloads using Azure networking - Passed credential!
 
