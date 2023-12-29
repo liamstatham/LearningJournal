@@ -6,6 +6,7 @@ Log to be completed ascending (new log at the top).
 Current plans:
   - Cloud engineering with Azure (Current job)
   - Code projects
+  - AZ-700 - Azure networking associate
   - AZ-102 - AI engineer associate
   - AZ-500 - Azure security
   - Terraform & Ansible
@@ -24,7 +25,16 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 29/12/2023
+  - Az-700 Azure networking
+  - ARM
+
+### 28/12/2023
+  - Az-700 Azure networking
+  - ARM
+
 ### 11/12/2023 - 24/12/2023
+  - Various illnesses!
   - Very busy at work, but lots of learning and development
   - VB6
   - Finished book: The coming wave (AI)
