@@ -24,6 +24,14 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 11/12/2023 - 24/12/2023
+  - Very busy at work, but lots of learning and development
+  - VB6
+  - Finished book: The coming wave (AI)
+  - Azure AI
+  - Azure networking
+  - ARM
+
 ### 10/12/2023
   - Azure AI
   - AI in general, book: the coming wave
