@@ -13,6 +13,7 @@ Current plans:
   - Kubernetes & linux
   - AWS Solutions architect
   - GCP Associate cloud engineer
+  - TOGAF
   
 Complete:
   - Azure assessment learn: Configure secure access to your workloads using Azure networking - Passed credential! 17/11/2023
@@ -24,6 +25,31 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
+
+
+### 14/01/2024
+  - TOGAF
+    
+### 12/01/2024
+  - Az-700 Azure networking
+  - ARM
+  - k8s
+    
+### 11/01/2024
+  - Az-700 Azure networking
+  - ARM
+  - k8s
+    
+### 09/01/2024
+  - Az-700 Azure networking
+  - ARM
+
+### 08/01/2024
+  - Az-700 Azure networking
+  - ARM
+    
+### 07/01/2024
+  - TOGAF
 
 ### 29/12/2023
   - Az-700 Azure networking
