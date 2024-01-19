@@ -26,6 +26,18 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021 
 
+### 19/01/2024
+  - TOGAF
+  - Azure app registrations/Entra ID/Service principals
+
+### 18/01/2024
+  - ARM, pipelines and powershell automation!
+  - k8s
+  - Automation around app registrations and api scopes
+
+### 17/01/2024
+  - ARM, pipelines and powershell automation!
+  - k8s
 
 ### 14/01/2024
   - TOGAF
