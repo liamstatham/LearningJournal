@@ -24,7 +24,24 @@ Complete:
   - AZ-104 - Azure Administrator Certification 17/12/2021
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
-  - 100 Days of code (C#/python) completed on 13/04/2021 
+  - 100 Days of code (C#/python) completed on 13/04/2021
+
+### 04/02/2024
+  - AZ-700, renewed my focus
+  - Basic covering of Vnets/pips/dns/vnet connectivity/routing and labs
+
+### 02/02/2024
+  - Powershell/ARM/DevOps
+  - App services, app gateways, app registrations and b2c connections
+  - Automation
+  - Mentoring
+
+### 22/01/2024 - 01/02/2024
+  - New projects at work and incredibly busy, a huge amount of learning happening.
+  - Powershell/ARM/DevOps
+  - App services, app gateways, app registrations and b2c connections
+  - Automation
+  - Mentoring
 
 ### 21/01/2024
   - TOGAF
