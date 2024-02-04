@@ -40,6 +40,7 @@ Complete:
   - New projects at work and incredibly busy, a huge amount of learning happening.
   - Powershell/ARM/DevOps
   - App services, app gateways, app registrations and b2c connections
+  - Azure K8S, microservices and networking
   - Automation
   - Mentoring
 
