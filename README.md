@@ -26,6 +26,13 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 05/02/2024
+  - AZ-700
+    - Vnet traffic routing - system, default, custom routes. UDR.
+    - Routing tables, forced tunnelling, route server, effective routes
+    - Azure virtual NAT
+  - Service principals, app registrations, app RBAC, powershell
+
 ### 04/02/2024
   - AZ-700, renewed my focus
   - Basic covering of Vnets/pips/dns/vnet connectivity/routing and labs
