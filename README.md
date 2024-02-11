@@ -26,6 +26,13 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+
+### 11/02/2024
+  - AZ-700
+    - Design and implement azure hybrid networking
+
+**Incredible amount of work related stress over the last few weeks!
+
 ### 05/02/2024
   - AZ-700
     - Vnet traffic routing - system, default, custom routes. UDR.
