@@ -27,6 +27,11 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021
 
 
+### 18/02/2024
+  - AZ-700
+    - Design and implement azure hybrid networking
+    - Design and implement azure express route
+
 ### 11/02/2024
   - AZ-700
     - Design and implement azure hybrid networking
