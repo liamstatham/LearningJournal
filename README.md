@@ -26,6 +26,12 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+
+### 10/03/2024
+  - AZ-700
+    - Load balance non-http(s) traffic in Azure
+    - Load balance http(s) traffic in Azure
+
 ### 09/03/2024
   - AZ-700
     - Load balance non-http(s) traffic in Azure
