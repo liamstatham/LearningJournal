@@ -26,6 +26,14 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 17/03/2024
+  - AZ-700
+    - Load balance http(s) traffic in Azure
+
+### 12/03/2024
+  - Azure secret, certificate and token management for AD b2b applications
+  - App registrations
+  - Docker and pipelines with Iris
 
 ### 10/03/2024
   - AZ-700
