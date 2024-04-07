@@ -27,6 +27,13 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021
 
 
+
+### 07/04/2024
+  - AZ-700
+    - Design and implement network security
+
+** Holiday **
+
 ### 24/03/2024
   - AZ-700
     - Design and implement network security
