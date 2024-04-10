@@ -26,7 +26,10 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
-
+### 10/04/2024
+  - AZ-700
+    - Design and implement private access to Azure services
+  - App registrations/Event hubs
 
 ### 07/04/2024
   - AZ-700
