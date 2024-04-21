@@ -27,6 +27,11 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021
 
 
+
+### 21/04/2024
+  - AZ-700
+  - John Savill's study guide for AZ-700
+
 ### 14/04/2024
   - AZ-700
     - Design and implement private access to Azure services
