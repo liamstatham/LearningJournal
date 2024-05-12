@@ -27,6 +27,16 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021
 
 
+
+### 12/05/2024
+  - AZ-700
+  - John Savill's study guide for AZ-700
+
+
+### 08/05/2024
+  - AZ-700
+  - John Savill's study guide for AZ-700
+
 ### 05/05/2024
   - AZ-700
   - John Savill's study guide for AZ-700
