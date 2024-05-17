@@ -28,10 +28,15 @@ Complete:
 
 
 
+### 17/05/2024
+  - AZ-400 renewal certification
+
+### 16/05/2024
+  - FinOps
+
 ### 12/05/2024
   - AZ-700
   - John Savill's study guide for AZ-700
-
 
 ### 08/05/2024
   - AZ-700
