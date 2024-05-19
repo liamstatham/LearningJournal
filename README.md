@@ -27,6 +27,9 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021
 
 
+### 19/05/2024
+  - AZ-700
+  - John Savill's deep dive for Azure private link
 
 ### 17/05/2024
   - AZ-400 renewal certification
