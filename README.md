@@ -1,4 +1,4 @@
-# Learning Journal
+/# Learning Journal
 
 A little reminder for myself as to what I've been learning.
 Log to be completed ascending (new log at the top). 
@@ -26,11 +26,18 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 23/05/2024
+  - AZ-700
+  - practice exams
+
+### 22/05/2024
+  - AZ-700
+  - practice exams
 
 ### 19/05/2024
   - AZ-700
   - John Savill's deep dive for Azure private link
-
+ 
 ### 17/05/2024
   - AZ-400 renewal certification
 
