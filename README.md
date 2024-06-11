@@ -26,6 +26,35 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+
+### 11/06/2024
+  - AZ-700
+  - practice exams
+
+### 10/06/2024
+  - AZ-700
+  - practice exams
+
+### 07/06/2024
+  - AZ-700
+  - practice exams
+
+### 06/06/2024
+  - AZ-700
+  - practice exams
+
+### 05/06/2024
+  - AZ-700
+  - practice exams
+
+### 04/06/2024
+  - AZ-700
+  - practice exams
+
+### 03/06/2024
+  - AZ-700
+  - practice exams
+
 ### 02/06/2024
   - AZ-700 exam cram video
   - AKS networking and network plugins
