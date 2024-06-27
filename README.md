@@ -16,6 +16,7 @@ Current plans:
   - TOGAF
   
 Complete:
+  - Ready to lead DDP course 27/06/2024
   - Azure assessment learn: Configure secure access to your workloads using Azure networking - Passed credential! 17/11/2023
   - Microsoft Certified: DevOps Engineer Expert!
   - AZ-400 - Designing and Implementing Microsoft DevOps Solutions 27/09/2023
@@ -25,6 +26,11 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
+
+### 27/06/2024
+  - AZ-700
+  - practice exams
+  - ready to lead course
 
 ### 24/06/2024
   - AZ-700
