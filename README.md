@@ -1,4 +1,4 @@
-/# Learning Journal
+<img width="678" alt="image" src="https://github.com/liamstatham/LearningJournal/assets/57186117/a33f49ed-6884-4d8f-b5fd-9e3a857b59fe">/# Learning Journal
 
 A little reminder for myself as to what I've been learning.
 Log to be completed ascending (new log at the top). 
@@ -26,6 +26,11 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
+
+### 01/07/2024
+  - AZ-700
+  - practice exams
+  - booked exam for 25th!
 
 ### 30/06/2024
   - AZ-700
