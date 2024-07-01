@@ -1,4 +1,4 @@
-<img width="678" alt="image" src="https://github.com/liamstatham/LearningJournal/assets/57186117/a33f49ed-6884-4d8f-b5fd-9e3a857b59fe">/# Learning Journal
+#Learning Journal
 
 A little reminder for myself as to what I've been learning.
 Log to be completed ascending (new log at the top). 
