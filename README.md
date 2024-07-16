@@ -27,8 +27,16 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 16/07/2024
+  - AZ-700
+  - highly available NVAs deep dive (cont)
+  - Route server deep dive
+  - BGP
+  - App insights (work)
+
 ### 14/07/2024
   - AZ-700
+  - highly available NVAs deep dive
   - practice exams
 
 ### 12/07/2024
