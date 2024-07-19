@@ -27,6 +27,10 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 19/07/2024
+  - AZ-700
+  - practice exams
+
 ### 18/07/2024
   - AZ-700
   - Azure DNS (work)
