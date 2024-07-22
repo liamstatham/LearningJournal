@@ -30,6 +30,7 @@ Complete:
 ### 22/07/2024
   - AZ-700
   - Express Route deep dive
+  - Traffic manager/NAT GW set ups
 
 ### 21/07/2024
   - AZ-700
