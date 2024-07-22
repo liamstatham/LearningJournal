@@ -31,6 +31,7 @@ Complete:
   - AZ-700
   - Express Route deep dive
   - Traffic manager/NAT GW set ups
+  - Practice exams
 
 ### 21/07/2024
   - AZ-700
