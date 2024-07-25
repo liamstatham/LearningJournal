@@ -6,7 +6,6 @@ Log to be completed ascending (new log at the top).
 Current plans:
   - Cloud engineering with Azure (Current job)
   - Code projects
-  - AZ-700 - Azure networking associate
   - AZ-102 - AI engineer associate
   - AZ-500 - Azure security
   - Terraform & Ansible
@@ -16,6 +15,7 @@ Current plans:
   - TOGAF
   
 Complete:
+  - AZ-700 Azure Networking Associate - 25/07/2024
   - Ready to lead DDP course 27/06/2024
   - Azure assessment learn: Configure secure access to your workloads using Azure networking - Passed credential! 17/11/2023
   - Microsoft Certified: DevOps Engineer Expert!
@@ -26,6 +26,9 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
+
+### 25/07/2024 
+  - AZ-700 exam PASSED!
 
 ### 24/07/2024
   - AZ-700
