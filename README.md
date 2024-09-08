@@ -27,6 +27,12 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 08/09/2024
+ - AWS skill builder solution architect learning plan
+ - organisations 
+
+### holidays and rest, kayaking on an Indian ocean lagoon makes all this worth it!
+
 ### 25/07/2024 
   - AZ-700 exam PASSED!
 
