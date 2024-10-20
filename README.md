@@ -27,6 +27,16 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 20/10/2024
+ - linux!
+ - ccsp
+
+### 13/10/2024
+ - linux!
+
+### 09/10/2024
+ - linux!
+
 ### 06/10/2024
  - linux!
 
