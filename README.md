@@ -6,6 +6,7 @@ Log to be completed ascending (new log at the top).
 Current plans:
   - Cloud engineering with Azure (Current job)
   - Code projects
+  - CCSP
   - AZ-102 - AI engineer associate
   - AZ-500 - Azure security
   - Terraform & Ansible
