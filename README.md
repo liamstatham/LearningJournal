@@ -28,6 +28,12 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 24/11/2024
+ - az-500
+
+### 20/11/2024
+ - az-500
+
 ### 17/11/2024
  - ccsp
  - az-500
@@ -78,7 +84,7 @@ Complete:
 
 ### 22/09/2024
  - AWS skill builder solution architect learning plan
- - AWS tech essentials
+  - AWS tech essentials
 
 ### 18/09/2024
  - AWS skill builder solution architect learning plan
