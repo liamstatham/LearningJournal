@@ -28,6 +28,9 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 17/12/2024
+ - AZ-305 - Certification renewal.
+
 ### 15/12/2024
  - az-500
    
