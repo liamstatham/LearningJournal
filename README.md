@@ -29,7 +29,7 @@ Complete:
   - 100 Days of code (C#/python) completed on 13/04/2021
 
 ### 05/01/2025
- - communication with senior executives 
+ - communication with senior executives and capture their attention 
 
 ### Xmas break
 
