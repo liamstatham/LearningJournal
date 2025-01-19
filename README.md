@@ -28,6 +28,18 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 19/01/25
+ - leadership principles explained audiobook
+
+### 18/01/25
+ - leadership principles explained audiobook
+
+### 17/01/25
+ - leadership principles explained audiobook
+
+### 16/01/25
+ - leadership principles explained audiobook
+
 ### 12/01/2025
  - AZ 500 study cram
 
