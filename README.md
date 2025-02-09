@@ -28,9 +28,18 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 09/0/2025
+ - AZ 500 study cram   
+
+### 05/02/2025
+ - AZ 700 renewal exam   
+
+### 29/01/2025
+ - AZ 500 study cram   
+
 ### 26/01/2025
  - AZ 500 study cram
- - 
+   
 ### 19/01/25
  - leadership principles explained audiobook
 
