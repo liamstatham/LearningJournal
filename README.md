@@ -31,8 +31,12 @@ Complete:
 ### 19/02/2025 (all week)
  - AZ 500 study cram
  - Web hacking techniques
- - OWASP  
-
+ - OWASP
+   
+### 12/02/2025 
+ - AZ 500 study cram
+ - PEN testing (all week at work)
+   
 ### 09/02/2025
  - AZ 500 study cram   
 
