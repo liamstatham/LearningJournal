@@ -28,6 +28,9 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 23/02/2025
+ - docker!
+
 ### 19/02/2025 (all week)
  - AZ 500 study cram
  - Web hacking techniques
