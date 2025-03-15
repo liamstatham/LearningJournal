@@ -28,6 +28,9 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 14/03/2025
+ - leadercamp - critical thinking
+
 ### 09/03/2025
  - the truth doesn't have to hurt - audiobook
  - giving and receiving criticism 
