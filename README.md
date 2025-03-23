@@ -28,6 +28,13 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 23/03/2025
+ - leadercamp - mastering influence
+ - leadercamp - tools to achieve clarity 
+
+### 19/03/2025
+ - leadercamp - mastering influence
+
 ### 16/03/2025
  - leadercamp - mastering influence
 
