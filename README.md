@@ -28,6 +28,14 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 06/04/2025
+ - leadercamp - motivation 
+ - handling deception 
+
+### 04/04/2025
+ - negotiating
+ - handling deception 
+
 ### 30/03/2025
  - strategic thinking as a leader
 
