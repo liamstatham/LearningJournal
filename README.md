@@ -28,6 +28,35 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 02/05/2025
+ - Agentic AI
+ - AI - How to use reasoning models
+
+### 30/04/2025
+ - Agentic AI
+ - AI - How to use reasoning models
+
+### 25/04/2025
+ - Azure security improvements
+ - info sec/auditing
+ - Agentic AI
+
+### 23/04/2025
+ - Azure security improvements
+ - info sec/auditing
+
+### 16/04/2025
+ - Azure security improvements
+ - info sec/auditing
+   
+### 14/04/2025
+ - leadercamp - motivation 
+ - handling deception 
+
+### 09/04/2025
+ - leadercamp - motivation 
+ - handling deception 
+
 ### 06/04/2025
  - leadercamp - motivation 
  - handling deception 
