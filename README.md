@@ -28,6 +28,11 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 05/01/2026
+ - Started a refresher on AWS skill builder https://cloudquest.skillbuilder.aws/
+
+### A 6 month stint focusing on Security, building a fashion business, my wife being incredibly ill and requiring surgery and recovery, and me having a burnout! - New job as a security cloud engineer acquired! 
+
 ### 24/05/2025
  - Azure virtual desktop course
 
