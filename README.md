@@ -4,10 +4,9 @@ A little reminder for myself as to what I've been learning.
 Log to be completed ascending (new log at the top). 
 
 Current plans:
-  - Cloud engineering with Azure (Current job)
+  - Security engineering and Cloud engineering with Azure, AWS, GCP and on premise (Current job)
   - Code projects
   - CCSP
-  - AZ-102 - AI engineer associate
   - AZ-500 - Azure security
   - Terraform & Ansible
   - Kubernetes & linux
@@ -27,6 +26,12 @@ Complete:
   - Started job as a Cloud Engineer 04/10/2021
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
+
+### 12/01/2026
+ - AWS skill builder https://cloudquest.skillbuilder.aws/
+
+### 11/01/2026
+- NCSC newsletter and further reading.
 
 ### 05/01/2026
  - Started a refresher on AWS skill builder https://cloudquest.skillbuilder.aws/
