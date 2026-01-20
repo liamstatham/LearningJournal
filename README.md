@@ -27,6 +27,21 @@ Complete:
   - AZ-900 - Azure Fundamentals Certification 28/04/2021
   - 100 Days of code (C#/python) completed on 13/04/2021
 
+### 20/01/2026
+ - AWS skill builder https://cloudquest.skillbuilder.aws/
+
+### 19/01/2026
+ - Security Podcasts and research
+
+### 18/01/2026
+ - Security Podcasts and research
+
+### 17/01/2026
+ - Security Podcasts and research
+
+### 14/01/2026
+ - AWS skill builder https://cloudquest.skillbuilder.aws/
+
 ### 13/01/2026
  - AWS skill builder https://cloudquest.skillbuilder.aws/
 
